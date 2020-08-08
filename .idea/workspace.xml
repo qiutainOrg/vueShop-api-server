@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="7ef83291-ae21-40c4-bde4-ca2bcf086552" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cheese.log" beforeDir="false" afterPath="$PROJECT_DIR$/cheese.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,7 +15,6 @@
   <component name="ProjectId" id="1XgletE8x969w5909i2HBgGjMZ3" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -48,6 +45,11 @@
       <workItem from="1584905626223" duration="9000" />
       <workItem from="1585672404705" duration="5096000" />
       <workItem from="1585838980519" duration="10000" />
+      <workItem from="1586892410169" duration="17000" />
+      <workItem from="1587640718766" duration="87000" />
+      <workItem from="1588077725362" duration="72000" />
+      <workItem from="1588077817110" duration="81000" />
+      <workItem from="1588686185278" duration="225000" />
     </task>
     <servers />
   </component>
